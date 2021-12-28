@@ -1,2 +1,2 @@
 # Science
-Nerdy/Geeky Projects
+Random science-ey projects
